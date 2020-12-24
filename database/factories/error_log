@@ -1,0 +1,385 @@
+[02-Jul-2018 22:46:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Sep-2018 06:39:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[06-Sep-2018 12:03:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[07-Sep-2018 16:14:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[08-Nov-2018 13:43:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[08-Nov-2018 16:58:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[13-Nov-2018 09:37:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[13-Nov-2018 11:11:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[18-Nov-2018 05:04:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[18-Nov-2018 08:30:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[18-Nov-2018 11:56:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Dec-2018 14:25:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Dec-2018 14:26:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Dec-2018 15:55:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Dec-2018 20:00:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[06-Dec-2018 22:46:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[06-Dec-2018 23:18:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[08-Dec-2018 16:29:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[15-Dec-2018 16:22:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[21-Dec-2018 10:14:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[22-Dec-2018 02:24:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[22-Dec-2018 16:48:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[02-Jan-2019 13:01:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[06-Jan-2019 04:17:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[06-Jan-2019 14:56:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[07-Jan-2019 00:39:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[23-Jan-2019 19:46:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[25-Jan-2019 05:16:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[25-Jan-2019 15:28:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[26-Jan-2019 01:20:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[14-Feb-2019 16:44:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[15-Feb-2019 02:05:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Mar-2019 11:38:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Mar-2019 21:27:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[07-Mar-2019 02:29:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[24-Mar-2019 17:02:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[10-Apr-2019 01:30:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[10-Apr-2019 09:12:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[10-Apr-2019 16:34:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[15-Apr-2019 05:34:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[16-May-2019 03:28:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[18-May-2019 04:10:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[20-May-2019 18:44:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[24-May-2019 07:13:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[24-May-2019 07:14:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[24-May-2019 07:14:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[24-May-2019 07:14:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[26-May-2019 06:18:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[26-May-2019 07:45:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[26-May-2019 13:07:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[30-May-2019 07:44:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[02-Jun-2019 10:41:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[04-Jun-2019 13:45:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Jun-2019 11:31:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[09-Jun-2019 23:43:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[10-Jun-2019 00:06:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[11-Jun-2019 04:02:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Aug-2019 04:12:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[07-Sep-2019 01:58:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[13-Sep-2019 01:28:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[19-Sep-2019 02:15:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[11-Oct-2019 11:48:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[14-Oct-2019 14:31:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[15-Oct-2019 17:59:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[15-Oct-2019 17:59:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[15-Oct-2019 17:59:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[15-Oct-2019 17:59:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[29-Oct-2019 18:37:40 America/Mexico_City] PHP Fatal error:  Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[10-Nov-2019 12:16:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[15-Nov-2019 23:35:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[26-Nov-2019 04:19:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[28-Nov-2019 09:34:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[28-Nov-2019 09:34:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[28-Nov-2019 09:34:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[28-Nov-2019 09:34:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[03-Dec-2019 07:35:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[03-Dec-2019 09:35:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[04-Dec-2019 08:33:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[07-Dec-2019 08:55:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[14-Dec-2019 16:54:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[21-Dec-2019 05:37:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[26-Dec-2019 04:46:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[30-Dec-2019 08:56:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[01-Jan-2020 20:49:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[01-Jan-2020 20:49:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[01-Jan-2020 20:49:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[01-Jan-2020 20:49:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[07-Jan-2020 12:24:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[12-Jan-2020 04:09:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Mar-2020 14:16:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[06-Mar-2020 15:18:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[04-Apr-2020 15:12:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[05-Apr-2020 22:49:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[09-Apr-2020 10:54:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[16-Apr-2020 05:40:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[18-Apr-2020 15:52:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16
+[19-Apr-2020 20:29:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/database/factories/UserFactory.php on line 16

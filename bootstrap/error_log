@@ -1,0 +1,481 @@
+[25-Jun-2018 03:00:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[30-Jun-2018 02:21:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[02-Jul-2018 22:44:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Jul-2018 13:42:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[04-Sep-2018 04:47:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Sep-2018 06:35:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[06-Sep-2018 12:01:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[06-Oct-2018 15:27:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[13-Oct-2018 06:33:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[08-Nov-2018 10:37:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[08-Nov-2018 13:39:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[08-Nov-2018 16:55:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[13-Nov-2018 08:41:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[13-Nov-2018 09:34:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[13-Nov-2018 11:10:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[17-Nov-2018 11:10:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[18-Nov-2018 05:01:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[18-Nov-2018 08:25:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[04-Dec-2018 06:15:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Dec-2018 12:45:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Dec-2018 14:12:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Dec-2018 14:21:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Dec-2018 15:53:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[06-Dec-2018 22:26:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[06-Dec-2018 23:16:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[08-Dec-2018 16:25:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[16-Dec-2018 20:38:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[20-Dec-2018 21:12:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[21-Dec-2018 10:12:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[22-Dec-2018 02:21:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Jan-2019 17:24:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[06-Jan-2019 04:08:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[06-Jan-2019 14:55:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[10-Jan-2019 23:05:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[24-Jan-2019 16:59:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[25-Jan-2019 05:06:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[25-Jan-2019 15:27:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[14-Feb-2019 04:58:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[14-Feb-2019 16:29:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[15-Feb-2019 02:02:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Mar-2019 02:17:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Mar-2019 11:36:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Mar-2019 21:26:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[06-Mar-2019 00:24:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[07-Mar-2019 02:36:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[09-Apr-2019 16:07:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[10-Apr-2019 01:28:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[10-Apr-2019 09:11:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[15-Apr-2019 05:25:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[22-Apr-2019 06:15:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[14-May-2019 05:08:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[15-May-2019 19:47:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[16-May-2019 03:24:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[16-May-2019 22:00:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[18-May-2019 04:07:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[24-May-2019 06:29:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[24-May-2019 06:29:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[24-May-2019 06:29:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[24-May-2019 06:29:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[26-May-2019 15:08:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[27-May-2019 17:15:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[29-May-2019 15:10:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[03-Jun-2019 10:36:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[04-Jun-2019 11:24:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[04-Jun-2019 15:02:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[09-Jun-2019 22:17:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[09-Jun-2019 23:16:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[05-Aug-2019 03:59:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[13-Aug-2019 12:49:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[31-Aug-2019 17:17:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[02-Sep-2019 09:54:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[06-Sep-2019 11:34:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[13-Sep-2019 00:58:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[28-Sep-2019 15:42:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[01-Oct-2019 20:54:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[07-Oct-2019 22:07:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[12-Oct-2019 23:31:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[15-Oct-2019 17:14:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[15-Oct-2019 17:14:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[15-Oct-2019 17:14:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[15-Oct-2019 17:14:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[20-Oct-2019 11:12:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[26-Oct-2019 12:45:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[30-Oct-2019 07:41:05 America/Mexico_City] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[08-Nov-2019 13:59:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[11-Nov-2019 00:31:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[13-Nov-2019 20:44:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[22-Nov-2019 02:47:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[28-Nov-2019 08:50:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[28-Nov-2019 08:50:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[28-Nov-2019 08:50:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[28-Nov-2019 08:50:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[29-Nov-2019 06:32:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[03-Dec-2019 03:55:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[10-Dec-2019 14:09:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[14-Dec-2019 10:25:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[21-Dec-2019 05:32:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[21-Dec-2019 22:08:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[26-Dec-2019 01:29:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[01-Jan-2020 20:05:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[01-Jan-2020 20:05:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[01-Jan-2020 20:05:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[01-Jan-2020 20:05:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[02-Jan-2020 15:58:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[07-Jan-2020 04:51:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[15-Jan-2020 06:45:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[04-Feb-2020 19:35:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[09-Feb-2020 03:03:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[11-Feb-2020 02:51:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[03-Mar-2020 03:40:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[03-Mar-2020 03:40:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[03-Mar-2020 03:40:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[03-Mar-2020 03:41:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[08-Mar-2020 20:12:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[28-Mar-2020 03:08:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[04-Apr-2020 15:30:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[16-Apr-2020 01:18:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[16-Apr-2020 23:36:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[18-Apr-2020 07:21:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[18-Apr-2020 20:15:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14
+[20-Apr-2020 11:58:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/digita13/public_html/enviromotic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digita13/public_html/enviromotic/bootstrap/app.php on line 14

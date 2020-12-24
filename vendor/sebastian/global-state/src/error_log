@@ -1,0 +1,1 @@
+[30-Oct-2019 13:35:39 America/Mexico_City] PHP Warning:  Unsupported declare 'strict_types' in /home/digita13/public_html/enviromotic/vendor/sebastian/global-state/src/Restorer.php on line 11

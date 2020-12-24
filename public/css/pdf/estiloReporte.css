@@ -1,0 +1,82 @@
+.header img {
+  float: left;
+  width: 150px;
+
+  }
+
+  .header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
+  #alinear{
+   text-align:right !important;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+ }
+ .p
+ {
+  font-size:10;
+ }
+ .i
+ {
+  width:124px;
+ }
+ .th2{
+  text-align:left;
+  font-family: Arial;
+  font-size: 12;
+ }
+ .th3{
+  text-align:left;
+  font-family: Arial;
+  font-style: italic;
+  font-size: 12;
+ }
+ .th4{
+  text-align:left;
+  font-family: Arial;
+  font-size: 10;
+ }
+
+ .th{
+  text-align:left;
+  font-family: Arial;
+  font-size: 10;
+ }
+ .date{
+  font-size:8;
+  width:100;
+  text-align:right;
+ }
+    .footer {
+    width: 100%;
+    text-align:right !important;
+    font-size: 10;
+    position: fixed;
+    }
+    .footer2 {
+    width: 100%;
+    text-align:left !important;
+    bottom: 0px;
+    position: fixed;
+    }
+    .footer {
+    bottom: 0px;
+    }
+    
+    .pagenum:before {
+    content: counter(page);
+    
+}
